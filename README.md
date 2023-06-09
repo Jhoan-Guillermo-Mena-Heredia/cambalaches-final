@@ -1,4 +1,4 @@
-# Prueba1
+# Cambalaches
 Este repositorio fue creado por el proyecto Cambalaches.
 
 Cambalaches es un proyecto que busca facilitar a las personas a realizar emprendimientos sin requerir de un punto fisico, 
