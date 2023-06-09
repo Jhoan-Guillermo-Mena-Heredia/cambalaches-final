@@ -1,0 +1,53 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+}
+#wedsite{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 150px 120px 1fr;
+
+    width: 75%;
+    height: 100vh;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+}
+#cabecera{
+    grid-column: 1/6;
+    background: blue;
+    color: aliceblue;
+}
+#menu{
+    grid-column: 1/6;
+    background:#ccceee;
+}
+#menu ul{
+    grid-column: 1/6;
+    background:#ccceee;
+}
+#contenido {
+    display: grid;
+    list-style: none;
+    grid-template-columns: repeat(10,1fr);
+}
+#contenido article{
+    grid-column: 1/5;
+    background: cornflowerblue;
+    border: 1px solid #555;
+}
+#lateral{
+    display: flex;
+    align-items: center;
+    grid-column: 5/6;
+    background:orange;
+    color: white;
+    
+}
+h2{
+    rotate:  -91deg;
+}
+#pie-pagina{
+    grid-column: 1/6;
+    background:black;
+    color: white;
+}

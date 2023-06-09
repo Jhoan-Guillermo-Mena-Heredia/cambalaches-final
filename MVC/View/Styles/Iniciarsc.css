@@ -1,0 +1,88 @@
+*{
+    text-decoration: none;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{background-color: black;}
+
+#layoud{
+    
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border :1px solid black;
+    padding: 1px;
+    width: auto;
+    height: auto;
+    box-shadow: 2px 4px 6px chocolate ;
+    margin:auto;
+    
+}
+#holla{
+    background-color: white;
+    display: flex;
+    flex-direction: ROW;
+    flex-wrap:wrap;
+    align-items: center;
+    border :1px solid black;
+    padding: 2px;
+    width: auto;
+    height: auto;
+    box-shadow: 2px 4px 6px chocolate ;
+    margin:auto;
+    
+}
+#titulo{
+    align-items: center;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 120px;
+    border-bottom: 0px;
+
+}
+#login{
+margin-left: 35%;
+padding-top: 5px;
+border-radius: 80%;
+}
+#formula{
+    align-items: center;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 15px; 
+}
+#opciones{
+    flex-grow: 1;
+    flex-basis: 30%;
+    height: 100%;
+    padding-right: 20px;
+    padding: 0px;
+}
+#opciones >ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content:center;
+    padding-bottom: 2%;
+    height: auto;
+    list-style: none ;
+    background-color: aquamarine;
+    padding-top: 2%;
+    
+}
+#opciones a{
+    color: black;
+text-transform: uppercase;
+padding: 10px;
+transition: all 500ms;
+
+}
+#opciones a:hover{
+    background-color: black;
+    color: white;
+}
