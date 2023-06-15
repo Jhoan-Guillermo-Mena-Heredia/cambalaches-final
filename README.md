@@ -15,3 +15,21 @@ donde el atractivo es encontrar podructos nuevos, usados, restaurados e incluso 
 Puedes seguirnos en Instagram: https://www.instagram.com/__cambalaches__/
 
 😁
+<br>
+## Objetivo General
+
+Se basa en un sistema de bases enfocadas para negocios y páginas de ventas, donde cada usuario registrado tenga la posibilidad de crear  su plataforma de ventas y comercializar sus productos con otros usuarios.
+
+## Objetivos Especificos
+1. Identificar por medio de las encuestas los requerimientos del Sistema. 
+
+
+2. Verificar que se busca en sí a la hora de vender por medio de sitios web. 
+
+
+3. Analizar los dispositivos donde será utilizado el sistema.
+
+
+4. Permitir crear el diseño del sistema. 
+
+5. Crear un prototipo del sistema que permita la gestión, administración de la empresa, inventariados, registros de ventas, (publicidad paga).
